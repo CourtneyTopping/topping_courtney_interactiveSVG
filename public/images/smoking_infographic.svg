@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4A494A;}
+	.st1{fill:#4A494A;stroke:#383737;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st3{fill:#ABABAB;}
+	.st4{font-family:'Impact';}
+	.st5{font-size:16px;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-size:29px;}
+	.st8{font-size:44px;}
+	.st9{font-family:'HelveticaNeue-Italic';}
+	.st10{font-size:12px;}
+	.st11{fill:#9F712A;stroke:#392B13;stroke-width:2;stroke-miterlimit:10;}
+	.st12{font-size:18px;}
+	.st13{fill:url(#ash_1_);}
+	.st14{fill:#F4F4F4;}
+	.st15{fill:url(#butt_1_);}
+	.st16{fill:url(#gold_1_);}
+</style>
+<path id="background" class="st0" d="M780,612H12c-6.6,0-12-5.4-12-12V12C0,5.4,5.4,0,12,0h768c6.6,0,12,5.4,12,12v588
+	C792,606.6,786.6,612,780,612z"/>
+<path id="measurement-tool" class="st1" d="M745.4,558.6H46.2c-6.6,0-12-5.4-12-12V251.9c0-6.6,5.4-12,12-12h699.2
+	c6.6,0,12,5.4,12,12v294.7C757.4,553.2,752,558.6,745.4,558.6z"/>
+<g id="percentage-line">
+	<line class="st2" x1="234.9" y1="239.9" x2="234.9" y2="558.6"/>
+	<line class="st2" x1="308.1" y1="239.9" x2="308.1" y2="558.6"/>
+	<line class="st2" x1="381.7" y1="239.9" x2="381.7" y2="558.6"/>
+	<line class="st2" x1="459.3" y1="239.9" x2="459.3" y2="558.6"/>
+	<line class="st2" x1="538.3" y1="239.9" x2="538.3" y2="558.6"/>
+	<line class="st2" x1="610.6" y1="239.9" x2="610.6" y2="558.6"/>
+	<line class="st2" x1="680.5" y1="239.9" x2="680.5" y2="558.6"/>
+	<g id="percentage">
+		<text transform="matrix(1 0 0 1 238.868 554.1807)" class="st3 st4 st5">0%</text>
+		<text transform="matrix(1 0 0 1 312.137 554.1807)" class="st3 st4 st5">10%</text>
+		<text transform="matrix(1 0 0 1 385.721 554.1807)" class="st3 st4 st5">20%</text>
+		<text transform="matrix(1 0 0 1 463.3441 554.1807)" class="st3 st4 st5">30%</text>
+		<text transform="matrix(1 0 0 1 542.3333 554.1807)" class="st3 st4 st5">40%</text>
+		<text transform="matrix(1 0 0 1 614.5519 554.1807)" class="st3 st4 st5">50%</text>
+		<text transform="matrix(1 0 0 1 684.5139 554.1807)" class="st3 st4 st5">60%</text>
+	</g>
+</g>
+<g id="Titles">
+	<text transform="matrix(1 0 0 1 34.2262 40.6255)" class="st6 st4 st7">The Percentage of Canadians </text>
+	<text transform="matrix(1 0 0 1 10.152 92.8924)" class="st6 st4 st8">THAT SMOKE</text>
+	<text transform="matrix(1 0 0 1 234.8681 88.8924)" class="st6 st4 st7">by Year</text>
+	<text transform="matrix(1 0 0 1 15.3376 120.1441)" class="st3 st9 st10">adults aged 15+, 1965-2017 (University of Waterloo)</text>
+</g>
+<g id="years">
+	<circle id="background1" class="st11" cx="155.6" cy="193.1" r="31.7"/>
+	<text transform="matrix(1 0 0 1 138.1375 199.2062)" class="st6 st4 st12">1970</text>
+	<circle id="background1_1_" class="st11" cx="253.8" cy="193.1" r="31.7"/>
+	<text transform="matrix(1 0 0 1 236.3524 199.2061)" class="st6 st4 st12">1980</text>
+	<circle id="background1_2_" class="st11" cx="347.5" cy="193.1" r="31.7"/>
+	<text transform="matrix(1 0 0 1 330.0824 199.2061)" class="st6 st4 st12">1990</text>
+	<circle id="background1_3_" class="st11" cx="444.6" cy="193.1" r="31.7"/>
+	<text transform="matrix(1 0 0 1 426.1275 199.2061)" class="st6 st4 st12">2000</text>
+	<circle id="background1_4_" class="st11" cx="542.5" cy="193.1" r="31.7"/>
+	<text transform="matrix(1 0 0 1 525.0757 199.2061)" class="st6 st4 st12">2010</text>
+	<circle id="background1_5_" class="st11" cx="636.1" cy="193.1" r="31.7"/>
+	<text transform="matrix(1 0 0 1 614.5962 199.2061)" class="st6 st4 st12">Today</text>
+</g>
+<g id="cigarette">
+	<linearGradient id="ash_1_" gradientUnits="userSpaceOnUse" x1="555.9449" y1="449.8598" x2="576.5777" y2="449.8598">
+		<stop  offset="0" style="stop-color:#150000"/>
+		<stop  offset="1" style="stop-color:#913A28"/>
+	</linearGradient>
+	<path id="ash" class="st13" d="M556.8,425.2c0,0,6.6,9.3,5.8,14.8c-0.8,5.5-7.6,8.7-6.6,13.7s3.5,7.5,3.3,10.7
+		c-0.2,3.2-2.5,2.5-1.9,6.8c0.6,4.3,0.6,4.3,0.6,4.3s11.4-1.1,14.9,0c3.5,1.1,2.7-3.9,2.7-3.9s-4.1-2.5-3.3-7.5s6-4.8,3.4-9.3
+		c-2.6-4.6,2.3-7.5-0.7-12.1c-2.9-4.6,2.4-5.2,1.4-10c-1-4.8,2.1-7.3-2.1-5.5c-4.3,1.8-4.5-3-4.7-3.2
+		C569.4,423.8,556.8,425.2,556.8,425.2z"/>
+	<path id="body" class="st14" d="M217.3,422.9h345.9v52.8H217.3C217.3,475.6,193.1,461.3,217.3,422.9z"/>
+	
+		<linearGradient id="butt_1_" gradientUnits="userSpaceOnUse" x1="132.3778" y1="138.3615" x2="132.3778" y2="191.1615" gradientTransform="matrix(1 0 0 -1 0 614)">
+		<stop  offset="0" style="stop-color:#9D4A17"/>
+		<stop  offset="1" style="stop-color:#FEC25E"/>
+	</linearGradient>
+	<path id="butt" class="st15" d="M56.8,422.9h156v52.8h-156C56.8,475.6,45.9,461.3,56.8,422.9z"/>
+	
+		<radialGradient id="gold_1_" cx="227.4717" cy="250.6537" r="7.2992" gradientTransform="matrix(2.1612 0 0 -2.6633 -278.7897 1116.7957)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#C4BF9A"/>
+		<stop  offset="0.1923" style="stop-color:#C4BF97"/>
+		<stop  offset="0.3862" style="stop-color:#C4BD8F"/>
+		<stop  offset="0.5808" style="stop-color:#C4BA82"/>
+		<stop  offset="0.776" style="stop-color:#C4B770"/>
+		<stop  offset="0.97" style="stop-color:#C4B358"/>
+		<stop  offset="1" style="stop-color:#C4B354"/>
+	</radialGradient>
+	<path id="gold" class="st16" d="M212.1,422.9h7c0,0-11.6,20.6,0,52.8h-7C212.1,475.6,199.6,451.8,212.1,422.9z"/>
+</g>
+<text transform="matrix(1 0 0 1 234.8683 578.9706)" class="st3 st9 st10">PERCENTAGE</text>
+</svg>

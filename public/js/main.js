@@ -10,7 +10,6 @@
         // show the popover
         popover.classList.add('show-popover');
         el.appendChild(popover);
-    
     }
 
     function fetchData(event) {

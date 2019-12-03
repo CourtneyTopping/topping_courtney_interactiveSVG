@@ -1,3 +1,75 @@
 
+
+h1, h2, h3, body {
+    font-family: Impact, Helvetica,sans-serif;
+    color: white;
+}
+
+h4 {
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    color: #ababab;
+    margin-bottom: 5%;
+}
+
+body {
+    background: #4a494a;
+}
+
 .hidden { display: none; }
 
+.circle{
+    position:relative;
+    width:10%;
+    padding-bottom:10%;
+    background: #9f712a;
+    border-radius:50%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    float: left;
+  }
+
+  .circle:hover{
+      background-color: #392b13;
+  }
+
+  .circle h3{
+    position:absolute;
+    top:50%; left:50%;
+    transform: translate(-50%, -50%);
+    margin:0;
+    color: white;
+  }
+  
+  #gridCon {
+    clear: both;
+    background: url(../images/grid.svg);
+    background-repeat: no-repeat;
+ } 
+
+#cigarette {
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+  
+
+
+/* PopUp Stats */
+  #popUp {
+    width:10%;
+    padding-bottom:10%;
+    background: white;
+    opacity: 30%;
+    border-radius:50%;
+    margin-left: 5%;
+    float: right;
+  }
+
+  #popUp h4 {
+    position:absolute;
+    top:50%; left:50%;
+    transform: translate(-50%, -50%);
+    margin:0;
+    color: black;
+  }

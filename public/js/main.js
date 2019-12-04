@@ -12,6 +12,7 @@
         el.appendChild(popover);
     }
 
+    
     function fetchData(event) {
         event.preventDefault();
         let targetEl = this,
@@ -22,8 +23,10 @@
         .then(data => {
            console.log(data);
     
+           
             // populate the popover
             showPopover(data, targetEl);
+
         })
         .catch((err) => console.log(err));
     }

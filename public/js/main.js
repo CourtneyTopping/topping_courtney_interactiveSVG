@@ -6,10 +6,13 @@
 
     function showPopover(smokedata, el) {
         popover.querySelector(".percentage").textContent = `${smokedata.percentage}`;
-    
         // show the popover
         popover.classList.add('show-popover');
         el.appendChild(popover);
+
+        let cig = document.querySelector('.cigarette');
+
+        cig.data = `images/${smokedata.image}`
     }
 
     

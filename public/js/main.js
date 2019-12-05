@@ -10,7 +10,7 @@
         popover.classList.add('show-popover');
         el.appendChild(popover);
 
-        let cig = document.querySelector('.cigarette');
+        let cig = document.querySelector('#cigarette');
 
         cig.data = `images/${smokedata.image}`
     }

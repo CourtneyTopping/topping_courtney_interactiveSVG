@@ -10,22 +10,22 @@
 </style>
 <g id="cigarette">
 	
-		<linearGradient id="ash_1_" gradientUnits="userSpaceOnUse" x1="631.8409" y1="308.1807" x2="651.1797" y2="308.1807" gradientTransform="matrix(1 0 0 -1 0 614)">
+		<linearGradient id="ash_1_" gradientUnits="userSpaceOnUse" x1="545.5714" y1="238.5193" x2="568.2012" y2="238.5193" gradientTransform="matrix(1 0 0 1 0 2)">
 		<stop  offset="0" style="stop-color:#190B0C"/>
 		<stop  offset="1" style="stop-color:#913B29"/>
 	</linearGradient>
-	<path id="ash" class="st0" d="M632.6,281.2c0,0,6.2,9.3,5.4,14.8s-7.1,8.7-6.2,13.7c0.9,5,3.3,7.5,3.1,10.7
-		c-0.2,3.2-2.3,2.5-1.8,6.8c0.6,4.3,0.6,4.3,0.6,4.3s10.7-1.1,14,0c3.3,1.1,2.5-3.9,2.5-3.9s-3.8-2.5-3.1-7.5s5.6-4.8,3.2-9.3
-		c-2.4-4.6,2.2-7.5-0.7-12.1c-2.7-4.6,2.2-5.2,1.3-10s2-7.3-2-5.5c-4,1.8-4.2-3-4.4-3.2C644.5,279.8,632.6,281.2,632.6,281.2z"/>
-	<path id="body" class="st1" d="M314.4,278.9h324.2v52.8H314.4C314.4,331.6,291.8,317.3,314.4,278.9z"/>
+	<path id="ash" class="st0" d="M546.5,215.9c0,0,7.3,9.3,6.3,14.8c-0.9,5.5-8.3,8.7-7.3,13.7c1.1,5,3.9,7.5,3.6,10.7
+		c-0.2,3.2-2.7,2.5-2.1,6.8c0.7,4.3,0.7,4.3,0.7,4.3s12.5-1.1,16.4,0s2.9-3.9,2.9-3.9s-4.4-2.5-3.6-7.5c0.8-5,6.6-4.8,3.7-9.3
+		c-2.8-4.6,2.6-7.5-0.8-12.1c-3.2-4.6,2.6-5.2,1.5-10s2.3-7.3-2.3-5.5s-4.9-3-5.1-3.2C560.4,214.5,546.5,215.9,546.5,215.9z"/>
+	<path id="body" class="st1" d="M174.1,213.6h379.4v52.8H174.1C174.1,266.3,147.7,252,174.1,213.6z"/>
 	
-		<linearGradient id="butt_1_" gradientUnits="userSpaceOnUse" x1="228.839" y1="509.6385" x2="228.839" y2="456.8385" gradientTransform="matrix(1 0 0 1 0 -178)">
+		<linearGradient id="butt_1_" gradientUnits="userSpaceOnUse" x1="86.8333" y1="167.6615" x2="86.8333" y2="220.4615" gradientTransform="matrix(1 0 0 -1 0 434)">
 		<stop  offset="0" style="stop-color:#9E4C23"/>
 		<stop  offset="1" style="stop-color:#FEC35F"/>
 	</linearGradient>
-	<path id="butt" class="st2" d="M151.9,278.9h158.8v52.8H151.9C151.9,331.6,140.8,317.3,151.9,278.9z"/>
+	<path id="butt" class="st2" d="M9.9,213.6h158.8v52.8H9.9C9.9,266.3-1.2,252,9.9,213.6z"/>
 	
-		<radialGradient id="gold_1_" cx="319.5464" cy="431.6952" r="7.2992" gradientTransform="matrix(2.2005 0 0 2.6633 -392.4063 -844.5043)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="gold_1_" cx="255.0156" cy="204.8233" r="7.2992" gradientTransform="matrix(2.2005 0 0 -2.6633 -392.4063 785.4354)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#C4BF9B"/>
 		<stop  offset="0.1923" style="stop-color:#C4C097"/>
 		<stop  offset="0.3862" style="stop-color:#C5BD8F"/>
@@ -34,6 +34,6 @@
 		<stop  offset="0.97" style="stop-color:#C4B358"/>
 		<stop  offset="1" style="stop-color:#C5B353"/>
 	</radialGradient>
-	<path id="gold" class="st3" d="M310,278.9h7.1c0,0-11.8,20.6,0,52.8H310C310,331.6,297.3,307.8,310,278.9z"/>
+	<path id="gold" class="st3" d="M168,213.6h7.1c0,0-11.8,20.6,0,52.8H168C168,266.3,155.3,242.5,168,213.6z"/>
 </g>
 </svg>
